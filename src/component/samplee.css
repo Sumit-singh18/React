@@ -1,0 +1,9 @@
+.child{
+    border: 1px solid;
+    color: rgb(9, 9, 6);
+    font-size:20px;
+    display: inline-block;
+    width: 25%;
+    padding: 20px;
+    margin: 40px;
+}

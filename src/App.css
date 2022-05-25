@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.App-heading{
+  color: gold;
+  margin:45px ;
+  margin-left: 155px;
+  
+}

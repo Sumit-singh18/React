@@ -1,0 +1,100 @@
+* {
+  background-color:black;
+}
+
+#Main-container {
+  height: 40px;
+  width: 20px;
+  margin: 165px;
+  display: inline-block;
+  border-radius: 0px 0px 10px 10px;
+  background-color: #ffffff14;
+}
+img {
+  height: 350px;
+  width: 230px;
+}
+span {
+  margin-left: 11px;
+  /* font-size: 18px; */
+  color: white;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+a {
+  margin-left: 9px;
+  font-size: 16px;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover {
+  text-decoration: underline;
+}
+#watchbtn {
+  color: #5799ef;
+  width: 230px;
+  margin-top: 20px;
+  background-color: #ffffff14;
+  border-radius: 5px;
+  padding: 10px;
+  padding-bottom: 10px;
+  font-family: sans-serif;
+}
+.glyphicon {
+  color: white;
+  margin-left: 11px;
+  font-size: 14px;
+}
+.info {
+  right: 0px;
+  color: aliceblue;
+  margin-left:170px;
+  font-size: 30x;
+  margin-top: -45px;
+  
+}
+.info:hover,
+#watchbtn,
+.Star,
+.glyphicon,.Trailer {
+  cursor: pointer;
+}
+.Star {
+  color: #5799ef;
+  margin-left:90px ;
+  margin-top: -24px;
+}
+.Star:hover {
+  color: white;
+}
+.Trailer{
+  margin-left:44px;
+    margin-top: -38px;
+    color: white;
+    
+}
+.Rate{
+  color: white;
+ 
+  
+}
+.Star1{
+  color:gold;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-left: 8px;
+  
+}
+.child{
+  font-size: 20px;
+}
+.link{
+  margin-top: -20px;
+
+}
+#headmain{
+  color:gold;
+}
+#rating{
+  color: white;
+}
